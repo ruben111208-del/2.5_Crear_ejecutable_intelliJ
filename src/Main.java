@@ -7,7 +7,6 @@ public class Main extends JFrame {
     public Main() {
         JLabel lblSaludo = new JLabel("Hola Mundo. Creando mi primer ejemplo"); //Imprimir texto
         add(lblSaludo);
-        System.out.println("Hola soy Ruben Alvarez");
 
         this.setSize(200, 200); //tamaño de la ventana
         this.setTitle("RubenAlvarez"); //nombre de la ventana
